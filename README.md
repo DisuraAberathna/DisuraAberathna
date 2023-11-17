@@ -1,5 +1,4 @@
-<a href="#about-me"><h1>💫 About Me:</h1></a>
-<div id="about-me">
+<h1>💫 About Me:</h1>
   <p>👋 Hi, I’m @DisuraAberathna</p>
   <p>🌱 I’m currently learning Frameworks</p>
   <p>💬 Ask me about HTML, CSS, JavaScript, PHP, Java</p>
@@ -16,4 +15,3 @@
       />
     </a>
   </p>
-</div>
