@@ -2,7 +2,7 @@
 <div id="about-me">
   <p>👋 Hi, I’m @DisuraAberathna</p>
   <p>🌱 I’m currently learning Frameworks</p>
-  <p>💬 Ask me about HTML, PHP, JavaScript, CSS, Java</p>
+  <p>💬 Ask me about HTML, CSS, JavaScript, PHP, Java</p>
   <p>
     📫 How to reach me
     <a href="mailto:disura@codexila.com">disura@codexila.com</a>
