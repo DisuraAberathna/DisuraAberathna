@@ -1,3 +1,7 @@
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=disuraaberathna&label=Profile%20views&color=0e75b6&style=flat" alt="disuraaberathna" /> 
+</p>
+
 <div>
     <h1 align="left">💫 About Me:</h1>
     <p align="left">👋 Hi, I’m @DisuraAberathna</p>
@@ -40,6 +44,3 @@
         <img src="https://github-profile-trophy.vercel.app/?username=disuraaberathna&theme=algolia" alt="disuraaberathna" />
     </p>
 </div>
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=disuraaberathna&label=Profile%20views&color=0e75b6&style=flat" alt="disuraaberathna" /> 
-</p>
