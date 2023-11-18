@@ -19,16 +19,15 @@
 <div>
     <h1 align="left">📊 GitHub Stats:</h1>
     <p>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=disuraaberathna&show_icons=true&locale=en&theme=algolia" alt="disuraaberathna" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=disuraaberathna&show_icons=true&locale=en&theme=algolia&hide_border=true" alt="disuraaberathna" />
     </p>
     <p>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=disuraaberathna&theme=algolia" alt="disuraaberathna" />
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=disuraaberathna&theme=algolia&hide_border=true" alt="disuraaberathna" />
     </p>
     <p>
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=disuraaberathna&show_icons=true&locale=en&layout=compact&theme=algolia" alt="disuraaberathna" />
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=disuraaberathna&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true" alt="disuraaberathna" />
     </p>
 </div>
-<br/>
 <br/>
 <br/>
 <br/>
