@@ -1,7 +1,3 @@
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=disuraaberathna&label=Profile%20views&color=0e75b6&style=flat" alt="disuraaberathna" /> 
-</p>
-
 <div>
     <h1 align="left">💫 About Me:</h1>
     <p align="left">👋 Hi, I’m @DisuraAberathna</p>
@@ -12,6 +8,10 @@
         <a href="mailto:disura@codexila.com">disura@codexila.com</a>
     </p>
 </div>
+
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=disuraaberathna&label=Profile%20views&color=0e75b6&style=flat" alt="disuraaberathna" /> 
+</p>
 
 <div>
     <h1 align="left">🖥️ Languages and Tools:</h1>
