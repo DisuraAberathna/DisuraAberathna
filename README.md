@@ -38,6 +38,7 @@
 <br/>
 <br/>
 <br/>
+<br/>
 <div>
     <h1 align="left">🏆 GitHub Trophies:</h1>
     <p align="left"> 
