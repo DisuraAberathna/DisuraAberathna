@@ -5,7 +5,7 @@
     <p align="left">💬 Ask me about HTML, CSS, JavaScript, PHP, Java</p>
     <p align="left">
         📫 How to reach me 
-        <a href="mailto:disura2005gmail.com">disura2005gmail.com</a>
+        <a href="mailto:disura2005@gmail.com">disura2005@gmail.com</a>
     </p>
 </div>
 
