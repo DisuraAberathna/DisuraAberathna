@@ -65,8 +65,8 @@ src="https://img.shields.io/github/followers/DisuraAberathna?logo=github&style=f
   <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
+<!--   <img width="12" /> -->
+<!--   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  /> -->
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
