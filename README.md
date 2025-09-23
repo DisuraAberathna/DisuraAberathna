@@ -196,7 +196,9 @@ Freelancer | Passosinate Undergraduate Full-Stack Software Engineer
 
 ###
 
-<img src="https://raw.githubusercontent.com/DisuraAberathna/DisuraAberathna/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DisuraAberathna/DisuraAberathna/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
@@ -207,7 +209,7 @@ Freelancer | Passosinate Undergraduate Full-Stack Software Engineer
 ###
 
 <div align="center">
-<a href="https://www.buymeacoffee.com/disura_aberathna"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+  <a href="https://www.buymeacoffee.com/disura_aberathna"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
 </div>
 
 ###
@@ -215,3 +217,5 @@ Freelancer | Passosinate Undergraduate Full-Stack Software Engineer
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" />
 </div>
+
+###
