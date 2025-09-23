@@ -16,9 +16,16 @@ Freelancer | Passosinate Undergraduate Full-Stack Software Engineer
 * ✉️  You can contact me at [contact@disuraaberathna.com](mailto:contact@disuraaberathna.com)
 * 🧠  I'm learning MERN Stack
 
-<a href="https://www.github.com/DisuraAberathna" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/github/followers/DisuraAberathna?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-</a>
+###
+
+<div align="center">
+  <a href="https://www.github.com/DisuraAberathna" target="_blank" rel="noreferrer">
+    <img src="https://komarev.com/ghpvc/?username=DisuraAberathna&color=blueviolet&style=for-the-badge&label=Profile+Views" />
+  </a>
+  <a href="https://www.github.com/DisuraAberathna" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/github/followers/DisuraAberathna?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+  </a>
+</div>
 
 ###
 
@@ -125,9 +132,9 @@ Freelancer | Passosinate Undergraduate Full-Stack Software Engineer
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DisuraAberathna&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=DisuraAberathna&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DisuraAberathna&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
