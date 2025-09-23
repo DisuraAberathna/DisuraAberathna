@@ -132,9 +132,13 @@ Freelancer | Passosinate Undergraduate Full-Stack Software Engineer
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DisuraAberathna&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+###
+
 <!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=DisuraAberathna&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div> -->
+
+###
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DisuraAberathna&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
@@ -155,6 +159,8 @@ Freelancer | Passosinate Undergraduate Full-Stack Software Engineer
 ###
 
 <h2 align="left">📞  Contact Me</h2>
+
+###
 
 ###
 
@@ -181,6 +187,8 @@ Freelancer | Passosinate Undergraduate Full-Stack Software Engineer
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
+
+###
 
 ###
 
