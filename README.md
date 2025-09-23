@@ -19,12 +19,12 @@ Freelancer | Passosinate Undergraduate Full-Stack Software Engineer
 ###
 
 <div align="center">
-  <a href="https://www.github.com/DisuraAberathna" target="_blank" rel="noreferrer">
-    <img src="https://komarev.com/ghpvc/?username=DisuraAberathna&color=blueviolet&style=for-the-badge&label=Profile+Views" />
-  </a>
-  <a href="https://www.github.com/DisuraAberathna" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/github/followers/DisuraAberathna?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-  </a>
+  <span>
+      <img src="https://img.shields.io/badge/Profile%20Views-0-7900B0?style=for-the-badge&logo=person&logoColor=white&labelColor=454545" />
+  </span>
+  <span>
+    <img src="https://img.shields.io/github/followers/DisuraAberathna?logo=github&style=for-the-badge&color=0891b2&labelColor=454545" />
+  </span>
 </div>
 
 ###
