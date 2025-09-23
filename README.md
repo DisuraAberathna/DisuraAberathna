@@ -30,7 +30,7 @@ Freelancer | Passosinate Undergraduate Full-Stack Software Engineer
 ###
 
 <div align="center">
-  <img align="center" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
 
 ###
@@ -123,7 +123,7 @@ Freelancer | Passosinate Undergraduate Full-Stack Software Engineer
 
 ###
 
-<h2 align="left">📊 GitHub Analytics </h2>
+<h2 align="left">📊  GitHub Analytics </h2>
 
 ###
 
@@ -141,14 +141,14 @@ Freelancer | Passosinate Undergraduate Full-Stack Software Engineer
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DisuraAberathna&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DisuraAberathna&radius=16&theme=dracula&area=true&order=5" height="280" alt="activity-graph graph"  />
 </div>
 
 ###
 
 ###
 
-<h2 align="left">🏆 GitHub Trophies </h2>
+<h2 align="left">🏆  GitHub Trophies </h2>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=DisuraAberathna&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
@@ -192,7 +192,7 @@ Freelancer | Passosinate Undergraduate Full-Stack Software Engineer
 
 ###
 
-<h2>📈 Contribution Graph </h2>
+<h2>📈  Contribution Graph </h2>
 
 ###
 
