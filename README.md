@@ -5,23 +5,26 @@ Freelancer | Passosinate Undergraduate Full-Stack Software Engineer
 
 ###
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
 ###
 
 <h2 align="left">👩‍💻  About Me</h2>
 
 ###
-
+  
 * 🌍  I'm based in Kandy Sri Lanka
 * 🖥️  See my portfolio at [disuraaberathna.com](http://disuraaberathna.com)
 * ✉️  You can contact me at [contact@disuraaberathna.com](mailto:contact@disuraaberathna.com)
 * 🧠  I'm learning MERN Stack
 
-<a href="https://www.github.com/DisuraAberathna" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/DisuraAberathna?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/DisuraAberathna" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/github/followers/DisuraAberathna?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+</a>
+
+###
+
+<div align="center">
+  <img align="center" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</div>
 
 ###
 
@@ -113,7 +116,7 @@ src="https://img.shields.io/github/followers/DisuraAberathna?logo=github&style=f
 
 ###
 
-<h2 align="left">🔥  My Stats </h2>
+<h2 align="left">📊 GitHub Analytics </h2>
 
 ###
 
@@ -126,17 +129,21 @@ src="https://img.shields.io/github/followers/DisuraAberathna?logo=github&style=f
   <img src="https://streak-stats.demolab.com?user=DisuraAberathna&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DisuraAberathna&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
 ###
+
+###
+
+<h2 align="left">🏆 GitHub Trophies </h2>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=DisuraAberathna&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DisuraAberathna&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
 
 ###
 
@@ -170,6 +177,10 @@ src="https://img.shields.io/github/followers/DisuraAberathna?logo=github&style=f
 
 ###
 
+<h2>📈 Contribution Graph </h2>
+
+###
+
 <img src="https://raw.githubusercontent.com/DisuraAberathna/DisuraAberathna/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -184,4 +195,8 @@ src="https://img.shields.io/github/followers/DisuraAberathna?logo=github&style=f
 <a href="https://www.buymeacoffee.com/disura_aberathna"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
 </div>
 
-<br/>
+###
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" />
+</div>
