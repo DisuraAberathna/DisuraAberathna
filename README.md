@@ -14,7 +14,7 @@ Freelancer | Passosinate Undergraduate Full-Stack Software Engineer
 * 🌍  I'm based in Kandy Sri Lanka
 * 🖥️  See my portfolio at [disuraaberathna.com](http://disuraaberathna.com)
 * ✉️  You can contact me at [contact@disuraaberathna.com](mailto:contact@disuraaberathna.com)
-* 🧠  I'm learning MERN Stack
+* 🧠  I'm currently learning Spring Boot
 
 ###
 
