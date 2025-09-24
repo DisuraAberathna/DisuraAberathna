@@ -1,9 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Disura Aberathna
 ========================================================================================================================================
 
-Freelancer | Passosinate Undergraduate Full-Stack Software Engineer
-
 ###
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0891b2&center=true&vCenter=true&width=940&lines=Undergraduate+Software+Engineer;Full+Stack+Developer;Researcher;Freelancer;Always+Learning+New+Technologies" alt="Typing SVG" />
+</div>
 
 ###
 
@@ -20,7 +22,7 @@ Freelancer | Passosinate Undergraduate Full-Stack Software Engineer
 
 <div align="center">
   <span>
-    <img src="https://komarev.com/ghpvc/?username=DisuraAberathna&color=7900B0&style=for-the-badge&label=Profile+View&labelColor=454545s" />
+    <img src="https://komarev.com/ghpvc/?username=DisuraAberathna&color=0891b2&style=for-the-badge&label=Profile+View&labelColor=454545" />
   </span>
   <span>
     <img src="https://img.shields.io/github/followers/DisuraAberathna?logo=github&style=for-the-badge&color=0891b2&labelColor=454545" />
