@@ -213,3 +213,9 @@ Freelancer | Passosinate Undergraduate Full-Stack Software Engineer
 </div>
 
 ###
+
+---
+
+<div align="center">
+  <i>✨ "Code with passion, debug with patience, and deploy with pride!" ✨</i>
+</div>
