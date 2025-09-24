@@ -35,7 +35,7 @@ Freelancer | Passosinate Undergraduate Full-Stack Software Engineer
 
 ###
 
-<h2 align="left">🛠  Language and tools</h2>
+<h2 align="left">🛠  Languages and Tools</h2>
 
 ###
 
