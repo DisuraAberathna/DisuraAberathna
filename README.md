@@ -168,7 +168,7 @@ Freelancer | Passosinate Undergraduate Full-Stack Software Engineer
   <a href="https://discord.com/users/disurachathwara" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="https://web.facebook.com/profile.php?id=100074785265866&_rdc=1&_rdr" target="_blank">
+  <a href="https://web.facebook.com/profile.php?id=100074785265866" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
   <a href="https://wa.me/+94760052864" target="_blank">
