@@ -15,7 +15,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   
 * 🌍  I'm based in Kandy, Sri Lanka
 * 🖥️  See my portfolio at [disuraaberathna.com](http://disuraaberathna.com)
-* ✉️  You can contact me at [contact@disuraaberathna.com](mailto:contact@disuraaberathna.com)
+* ✉️  You can contact me at [disuraaberathna@gmail.com](mailto:disuraaberathna@gmail.com)
 * 🧠  I'm currently learning Spring Boot
 
 ###
