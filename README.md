@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ###
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0891b2&center=true&vCenter=true&width=940&lines=Undergraduate+Software+Engineer;Full+Stack+Developer;Researcher;Freelancer;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0891b2&center=true&vCenter=true&width=940&lines=Software+Engineer;Full+Stack+Developer;Researcher;Freelancer;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
 ###
@@ -16,7 +16,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌍  I'm based in Kandy, Sri Lanka
 * 🖥️  See my portfolio at [disuraaberathna.com](http://disuraaberathna.com)
 * ✉️  You can contact me at [disuraaberathna@gmail.com](mailto:disuraaberathna@gmail.com)
-* 🧠  I'm currently learning Spring Boot
+* 🧠  I'm currently mastering Spring Boot
 
 ###
 
